@@ -3,8 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 Programming Language Projects:
-<b>SQL</b>
-- <a href="https://github.com/user-attachments/files/19195546/Portfolio.Activity_.Apply.filters.to.SQL.queries.odt)
+<br />
+<br />
+SQL</b>
+- <a href="https://github.com/Dloading23/SQL
 "> Applying Filters to SQL Queries</a>
 
 <b>Python</b>
