@@ -8,9 +8,10 @@ Programming Language Projects:
 SQL</b>
 - <a href="https://github.com/Dloading23/SQL
 "> Applying Filters to SQL Queries</a>
+<br /> 
+Python</b>
 
-<b>Python</b>
-  - 
+
 
 
 
@@ -19,3 +20,7 @@ SQL</b>
 <h2> Certifications </h2>
 <a <a href="https://github.com/user-attachments/files/19195272/Google.Cybersecurity.Professional.Certificate.pdf">Google Cybersecurity Professional</a>
 
+<h2> 🤳 Connect with me:</h2>
+<a <a href="https://www.linkedin.com/in/dewayne-hopewell-514485177/">LinkedIn</a> 
+<br />
+Gmail: dewayne.hopewell1@gmail.com
