@@ -7,11 +7,13 @@ Programming Language Projects:
 <br />
 SQL</b>
 - <a href="https://github.com/Dloading23/SQL
-"> Applying Filters to SQL Queries</a>
+"> SQL Queries</a>
 <br /> 
+
 Python</b>
-
-
+- <a href="https://github.com/Dloading23/Python
+"> Python Projects</a>
+<br /> 
 
 
 
